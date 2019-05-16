@@ -1,0 +1,214 @@
+﻿
+@{
+    Layout = null;
+    <link href="~/Content/myStyle.css" rel="stylesheet" />
+}
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body data-spy="scroll" data-target="#menu">
+    <div id="home">
+        @*Start Home Seccion*@
+        <!-- Navegacion-->
+        <nav class="navbar navbar-dark bg-dark navbar-expand-md fixed-top">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img src="~/image/logo rectangular.png" width="180px" height="100px" /></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="menu">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#Inicio">Inicio</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#Información">Información</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#Cursos">Cursos</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="#AulaVirtual">Aula Virtual</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="landing">
+            <div class="home-wrap">
+                <div class="home-inner">
+                    <img src="~/image/fondo.jpeg" />
+                </div>
+            </div>
+
+        </div>
+
+        <div class="caption text-center center-block">
+            <h1> <strong>Juntos hacemos realidad tus proyectos</strong></h1>
+            <a class="btn btn-outline-light" href="about">Inscribete</a>
+        </div>
+        @*End Home Seccion*@
+    </div>
+    <!-- Inicia el about-->
+
+    <div id="about">
+        <div class="jumbotron">
+            <h3 class="heading">Acerca de la Empresa</h3>
+            <div class="row">
+                <div class="col-md-6 text-center">
+                    <h4>Misión</h4>
+                    <p>
+                        Responder a las diferentes necesidades de capacitación y consultorías integrales
+                        en Sistemas de Gestión de Seguridad Industrial, Salud Ocupacional y Medio
+                        Ambiente; así como servicios de ingeniería y construcción de obras civiles,
+                        usando como herramientas fundamentales la legislación nacional vigente, normas
+                        internacionales, experiencia y criterio común.
+                    </p>
+                </div>
+
+                <div class="col-md-6 text-center">
+                    <h4>Visión</h4>
+                    <p>
+                        Aspiramos a ser reconocidos como una empresa líder en el ámbito local y
+                        nacional, expandiendo nuestro servicio a la par con otras empresas del rubro.
+                    </p>
+                </div>
+
+
+            </div><!-- termina el row-->
+        </div><!-- termina el jumbotron-->
+    </div><!-- termina el about-->
+    <!-- inicia el portafolio-->
+    @*<div id="portafolio">
+            <div class="container-fluid padding">
+                <h3 class="heading">Portafolio</h3>
+
+                <div class="row no-padding">
+                    <div class="col-md-6">
+                        <img class="portafolio" src="~/image/1.png" />
+                    </div>
+
+                    <div class="col-md-6">
+                        <img class="portafolio" src="~/image/2.png" />
+                    </div>
+
+                    <div class="col-md-6">
+                        <img class="portafolio" src="~/image/3.png" />
+                    </div>
+
+                    <div class="col-md-6">
+                        <img class="portafolio" src="~/image/4.png" />
+                    </div>
+                </div><!-- termina el row-->
+            </div><!-- termina el container-->
+        </div><!-- termina portafolio section-->*@
+    <!-- inicia el testimonal-->
+
+    <div id="testimonal">
+        <h3 class="heading">NUESTROS SERVICIOS</h3>
+        <div class="row padding">
+            <div class="col-md-6">
+                <div class="card text-center">
+                    <img class="card-img-top" src="~/image/capacitacion.jpg" width="200" height="300" />
+                    <div class="card-body">
+                        <h4>Entrenamiento y Capacitación.</h4>
+                        <p>sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                        <br />
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card text-center">
+                    <img class="card-img-top" src="~/image/Implementación y Auditoría de Sistemas de Gestión de seguridad.jpg" width="200" height="300" />
+                    <div class="card-body">
+                        <h4>
+                            Implementación y Auditoría de Sistemas de
+                            Gestión de Seguridad y Salud Ocupacional
+                        </h4>
+                        <p>sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card text-center">
+                    <img class="card-img-top" src="~/image/Implementación y Auditoría de Sistemas de Gestión de Medio Ambiente.jpg" width="200" height="300" />
+                    <div class="card-body">
+                        <h4> Implementación y Auditoría de Sistemas de Gestión de Medio Ambiente</h4>
+                        <p>sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card text-center">
+                    <img class="card-img-top" src="~/image/Gestión y Construcción de Proyectos Civiles.jpg" width="200" height="300" />
+                    <div class="card-body">
+                        <h4> Gestión y Construcción de Proyectos Civiles</h4>
+                        <p>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <div class="card text-center">
+                    <img class="card-img-top" src="~/image/instrumento.jpg" width="200" height="300" />
+                    <div class="card-body">
+                        <h4> Formulación, elaboración y actualización de los instrumentos de gestión</h4>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3"></div>
+
+
+        </div><!-- termina el row-->
+    </div><!-- termina el TESTIMONAL-->
+    <!--  INICIA iNFORMACION DE CONTACTO-->
+    <div id="contac">
+        <div class="container-fluid footer ">
+            <div class="text-center"><img src="~/image/logo.jpg" width="200" height="200" /> </div>
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-6 text-center">
+
+
+                    @*<p>
+                            Contrary to popular belief, Lorem Ipsum is not simply random text.
+                            It has roots in a piece of classical Latin literature from 45 BC, making
+                            it over 2000 years old.
+                        </p>*@
+                    <strong>Ubicacion</strong>
+                    <p> Urb. Los Docentes UNC –H10 Cajamarca- Perú</p>
+                    <strong>Telefono </strong>
+                    <p>(Telf.: RPC: 963851683 RPC: 962703764)</p>
+                    <strong>Correo</strong>
+                    <p>Email: vaocaeirl@gmail.com</p>
+
+                </div>
+            </div><!-- termina el row-->
+        </div><!-- termina el container-->
+    </div><!-- termina el inforacion de contacto-->
+</body>
+</html>
+
+<script src="~/Scripts/jquery-3.4.1.slim.min.js"></script>
+<script src="~/Scripts/bootstrap.bundle.min.js"></script>
+

@@ -1,0 +1,49 @@
+﻿@model VAOCA_DIARS.Models.Curso
+@{
+    ViewBag.Title = "Detalle";
+}
+
+<h2>Detalle</h2>
+
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Horas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Horas)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="/Curso/Editar?id=@Model.Id">Editar</a> |
+    <a href="/Curso/Index?">Regresar al Index</a>
+</p>

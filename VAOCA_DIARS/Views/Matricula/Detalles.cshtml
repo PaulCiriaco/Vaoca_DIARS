@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "Detalles";
+}
+
+<h2>Detalles</h2>
+
+
+<div class="container">
+
+    <h2>Lista de Matriculas</h2>
+
+    <a href="/Matricula/Crear" class="btn btn-primary">Crear Matricula</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+
+                <th>Fecha</th>
+                <th>Monto Total</th>
+                <th>Estado</th>
+                <th>Estudiante</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td>@Model.Fecha</td>
+                <td>@Model.Apellido</td>
+                <td>@Model.MontoTotal</td>
+
+                if (@Model.Estado == "p") {
+                <td>Pagado</td>
+                }else{
+                <td>No Pagado</td>
+                }
+
+                <td>
+                    <a href="/Matricula/Detalles?id=@Model.Id">VER</a>
+                    <a href="/Matricula/Editar?id=@Model.Id">EDITAR</a>
+                    <a href="/Matricula/Eliminar?id=@Model.Id">ELIMINAR</a>
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+
+</div>

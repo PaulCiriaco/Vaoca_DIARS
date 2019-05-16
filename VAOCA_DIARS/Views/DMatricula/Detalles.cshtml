@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Detalles";
+}
+
+<h2>Detalles</h2>
+
+
+
+
+<div class="container">
+
+    <h2>Lista de Matriculas</h2>
+
+    <a href="/DMatricula/Crear" class="btn btn-primary">Crear Detalle de Matricula</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+
+                <th>Matricula</th>
+                <th>Curso</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            <tr>
+                <td>@Model.IdCurso</td>
+                <td>@Model.IdMatricula</td>
+
+
+                <td>
+                    <a href="/DMatricula/Detalles?id=@Model.Id">VER</a>
+                    <a href="/DMatricula/Editar?id=@Model.Id">EDITAR</a>
+                    <a href="/DMatricula/Eliminar?id=@Model.Id">ELIMINAR</a>
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+
+</div>

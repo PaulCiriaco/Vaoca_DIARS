@@ -1,0 +1,33 @@
+﻿@model VAOCA_DIARS.Models.Profesor
+@{
+    ViewBag.Title = "Detalle";
+}
+
+<h2>Detalle de Profesor</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Correo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Correo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Clave)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clave)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="/Profesor/Editar?id=@Model.Id">Editar</a> |
+    <a href="/Profesor/Index">Regresar al Index</a>
+</p>
+

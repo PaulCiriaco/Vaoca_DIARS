@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Correo</th>
+            <th>Clave</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Correo</td>
+
+                <td id="fin">
+                    @item.Clave
+                </td>
+                <td>
+                    <a href="/Profesor/Detalle?id=@item.Id">Ver</a> |
+                    <a href="/Profesor/Editar?id=@item.Id">Editar</a> |
+                    <a href="/Profesor/Eliminar?id=@item.Id">Eliminar</a>
+                </td>
+
+            </tr>
+        }
+
+
+
+    </tbody>
+
+</table>
+
+<script>
+
+
+    function encriptar(elemento) {
+
+        var palabra_codificada = $(btoa("#ini"));
+        palabra_codificada.html(fin.val());
+    }
+
+    function desencriptar(elemento) {
+        var palabra = document.getElementsByTagName("CLAVE");
+        var palabra_descodificada = atob(palabra);
+        document.getElementById("resultado").innerHTML = palabra_descodificada;
+    }
+
+</script>

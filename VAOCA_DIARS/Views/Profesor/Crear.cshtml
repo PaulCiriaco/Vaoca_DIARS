@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Crear";
+}
+
+<h2>Crear</h2>
+
+<div class="row">
+    <div class="col-lg-4 col-lg-offset-4">
+        <form action="/Profesor/crear" method="post">
+
+            <div class="form-group">
+                <label class="control-label">Correo:</label>
+                <input type="text" class="form-control" name="Correo">
+
+            </div>
+
+            <div class="form-group">
+
+                <label class="control-label">Clave:</label>
+                <input type="password" class="form-control" name="Clave" id="password">
+
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">UsuarioId:</label>
+                <input type="number" class="form-control" name="IdUsuario">
+
+            </div>
+
+
+            <button class="btn btn-primary">Guardar</button>
+        </form>
+    </div>
+</div>
+
+
+<script src="js/sha1.js"></script>
+<script>
+
+    function cifrar() {
+        var input_pass = document.getElementById("password");
+        input_pass.value = sha1(input_pass.value);
+    }
+
+</script>

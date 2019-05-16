@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+
+<div class="container">
+
+    <h2>Lista de Matriculas</h2>
+
+    <a href="/DMatricula/Crear" class="btn btn-primary">Crear Detalle de Matricula</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+
+                <th>Matricula</th>
+                <th>Curso</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.IdCurso</td>
+                    <td>@item.IdMatricula</td>
+
+
+                    <td>
+                        <a href="/DMatricula/Detalles?id=@item.Id">VER</a>
+                        <a href="/DMatricula/Editar?id=@item.Id">EDITAR</a>
+                        <a href="/DMatricula/Eliminar?id=@item.Id">ELIMINAR</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+
+</div>

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Crear";
+}
+
+<h2>Crear</h2>
+
+
+
+<form action="/DMatricula/Crear" method="post">
+    <div class="form-group">
+        <label class="control-label">Matricula</label>
+        <input type="text" name="IdMatricula" />
+        @Html.ValidationMessage("IdMatricula")
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Curso</label>
+        <input type="text" name="IdCurso" />
+        @Html.ValidationMessage("IdCurso")
+    </div>
+
+
+    <button>Guardar</button>
+
+</form>

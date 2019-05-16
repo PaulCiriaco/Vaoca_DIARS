@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<div class="container">
+
+    <h2>Lista de Matriculas</h2>
+
+    <a href="/Matricula/Crear" class="btn btn-primary">Crear Matricula</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+
+                <th>Fecha</th>
+                <th>Monto Total</th>
+                <th>Estado</th>
+                <th>Estudiante</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Fecha</td>
+                    <td>@item.Apellido</td>
+                    <td>@item.MontoTotal</td>
+
+                    if (@item.Estado == "p") {
+                    <td>Pagado</td>
+                    }else{
+                    <td>No Pagado</td>
+                    }
+                    <td>@item.IdEstudiante</td>
+
+                    <td>
+                        <a href="/Matricula/Detalles?id=@item.Id">VER</a>
+                        <a href="/Matricula/Editar?id=@item.Id">EDITAR</a>
+                        <a href="/Matricula/Eliminar?id=@item.Id">EDITAR</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+
+</div>

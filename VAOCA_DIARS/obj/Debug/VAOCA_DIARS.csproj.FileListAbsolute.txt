@@ -1,0 +1,128 @@
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\ApplicationInsights.config
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\csc.exe
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\System.Collections.Immutable.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\vbc.exe
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\VBCSCompiler.exe
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\VBCSCompiler.exe.config
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\VAOCA_DIARS.dll.config
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\VAOCA_DIARS.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\VAOCA_DIARS.pdb
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Antlr3.Runtime.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.SqlServer.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.Web.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.WindowsServer.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.ApplicationInsights.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.Web.Infrastructure.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Newtonsoft.Json.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Helpers.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Mvc.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Optimization.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Razor.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Deployment.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Razor.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\WebGrease.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.SqlServer.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.Web.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.WindowsServer.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.ApplicationInsights.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Helpers.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Mvc.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Optimization.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Razor.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Deployment.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Razor.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Antlr3.Runtime.pdb
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\Newtonsoft.Json.xml
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Helpers.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Mvc.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Optimization.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Razor.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.WebPages.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\obj\Debug\VAOCA_DIARS.csprojResolveAssemblyReference.cache
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\obj\Debug\VAOCA_DIARS.dll
+c:\users\paul ciriaco\documents\visual studio 2015\Projects\VAOCA_DIARS\VAOCA_DIARS\obj\Debug\VAOCA_DIARS.pdb
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\ApplicationInsights.config
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\csc.exe
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\vbc.exe
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\VAOCA_DIARS.dll.config
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\VAOCA_DIARS.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\VAOCA_DIARS.pdb
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Antlr3.Runtime.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.SqlServer.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.Web.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Newtonsoft.Json.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Helpers.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Mvc.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Optimization.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Razor.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\WebGrease.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\EntityFramework.SqlServer.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.Web.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Helpers.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Mvc.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Optimization.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.Razor.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Antlr3.Runtime.pdb
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\Newtonsoft.Json.xml
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.Razor.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\obj\Debug\VAOCA_DIARS.csprojResolveAssemblyReference.cache
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\obj\Debug\VAOCA_DIARS.dll
+C:\Users\Paul Ciriaco\Pictures\DIARS\VAOCA_DIARS\VAOCA_DIARS\obj\Debug\VAOCA_DIARS.pdb

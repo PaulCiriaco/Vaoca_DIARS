@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Crear";
+}
+
+<h2>Crear</h2>
+
+
+<form action="/Matricula/Crear" method="post">
+    <div class="form-group">
+        <label class="control-label">Fecha</label>
+        <input type="text" name="Fecha" />
+        @Html.ValidationMessage("Fecha")
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Monto Total</label>
+        <input type="text" name="MontoTotal" />
+        @Html.ValidationMessage("MontoTotal")
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Estado</label>
+        <input type="text" name="Estado" />
+        @Html.ValidationMessage("Estado")
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Estudiante</label>
+        <input type="text" name="IdEstudiante" />
+        @Html.ValidationMessage("IdEstudiante")
+    </div>
+
+
+    <button>Guardar</button>
+
+</form>

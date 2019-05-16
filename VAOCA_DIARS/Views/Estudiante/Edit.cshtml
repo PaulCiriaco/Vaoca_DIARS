@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<div class="row">
+
+    <div class="col-md-6 col-md-offset-3">
+        <form action="/Edit/Create" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label>Empresa</label>
+                <input type="text" class="form-control" name="Empresa" value="@Model.Empresa">
+            </div>
+
+            <div class="form-group">
+                <label>Correo</label>
+                <input type="text" class="form-control" name="Correo" value="@Model.Correo">
+            </div>
+
+            <div class="form-group">
+                <label>Clave</label>
+                <input type="password" class="form-control" name="Clave" value="@Model.Clave">
+            </div>
+
+            <div class="form-group">
+                <label>IdUsuario</label>
+                <input type="text" class="form-control" name="IdUsuario" value="@Model.IdUsuario">
+            </div>
+
+            <button class="btn btn-primary">Guardar</button>
+
+        </form>
+    </div>
+
+</div>

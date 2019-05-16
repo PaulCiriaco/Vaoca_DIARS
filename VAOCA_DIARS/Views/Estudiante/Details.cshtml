@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Empresa</th>
+            <th>Correo</th>
+            <th>Usuario</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Empresa</td>
+                <td>@Model.Correo</td>
+                <td>@Model.IdUsuario</td>
+                <td>
+                    <a href="/Curso/Detail?Id=@Model.Id">Ver</a> |
+                    <a href="/Curso/Edit?Id=@Model.Id">Editar</a> |
+                    <a href="/Curso/Delete?Id=@Model.Id">Eliminar</a>
+                </td>
+            </tr>
+        
+    </tbody>
+</table>
